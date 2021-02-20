@@ -1,2 +1,2 @@
-# snakeGameDIO
-Recriando Snake Game com a DIO
+# recriandoNetflix
+Recriando página inicial da Netflix com a DIO
